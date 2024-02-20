@@ -1,5 +1,0 @@
-Hallo Elsa!
-
-Hallo Robin!
-
-Hallo Joachim: run-parts für KEINE Datein aus die eine Dateiendung haben! *haaaa haaaa*
